@@ -115,4 +115,4 @@ Add items worth >₹1000 → Apply SAVE10 → Place order → See compounded dis
 ## 👨‍💻 Author
 
 Hackathon Submission — Distributed E-Commerce Order Engine  
-Repository: `<YourName>_Ecommerce_Order_Engine_Hackathon`
+Repository: `<BHARGAVI>_Ecommerce_Order_Engine_Hackathon`
